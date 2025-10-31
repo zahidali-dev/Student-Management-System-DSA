@@ -36,7 +36,7 @@ File Handling: Java IO for export (with external libraries for advanced formats)
 Apache POI (for Excel and Word export)
 iText (for PDF export)
 Operating System: Windows 10
-**⚙️ Features Implemented**
+**Features Implemented**
  Secure login with username/password authentication
  CRUD operations: Add, Update, Delete, and Search students
  Dynamic display of all student records in a JTable
@@ -45,11 +45,8 @@ Operating System: Windows 10
  Responsive GUI with icons and modern styling
  Error handling and user feedback via dialogs
 **Project Setup**
-**Step 1: Clone Repository
-bash**
-git clone https://github.com/[zahidali_dev]/student-management-system.git
-cd student-management-system
-
+**Step 1: Clone Repository**
+https://github.com/zahidali-dev/Student-Management-System-DSA.git
 **Step 2: Add External Libraries**
 Download the following JAR files:
 Apache POI: poi-5.2.4.jar and poi-ooxml-5.2.4.jar from poi.apache.org/download.html
@@ -62,8 +59,7 @@ Press Ctrl+Shift+P, type "Java: Compile Workspace", and select it to compile all
 In VS Code's integrated terminal, run:
 bash
 
-Copy code
-java Main
+**java Main**
 The login dialog will appear first. Use username: admin, password: 2645.
 Step 5: Access Application
 The app runs as a desktop window. Interact with the GUI to manage student data.
@@ -95,8 +91,8 @@ Developed by: Zahid Ali
 Roll No: K24SW012
 Submitted to: ENGR: Asmatullah Zubair Soomro
 Course: Data Structure and Algorithm (DSA)
-Email: [azmeeralimahar@gmail.com]
-Contact: [03083253683, if applicable]
+Email: azmeeralimahar@gmail.com
+Contact:+923083253683
 
 **License**
 This project is licensed under the MIT License.
